@@ -147,8 +147,7 @@ a:focus-visible {
 }
 
 .graduation,
-.institution,
-.location {
+.institution {
   margin: 0;
   color: #e1eeeb;
 }
@@ -160,10 +159,6 @@ a:focus-visible {
 .institution {
   margin-top: 1.5rem;
   font-weight: 600;
-}
-
-.location {
-  margin-top: 0.45rem;
 }
 
 .contact {
